@@ -1,3 +1,5 @@
+# Forked repo to allow installation with fastapi versions > 0.111
+
 # FastAPI - Cognito
 FastAPI library that ease usage of AWS Cognito Auth.
 This library provides basic functionalities for decoding, validation and parsing
